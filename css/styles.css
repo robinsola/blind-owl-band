@@ -25,7 +25,13 @@ img {
 .info {
   font-family: Skia;
   line-height: 22px;
-  text-align: center;
+}
+
+.info img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  float: left;
 }
 
 .sidebar {
@@ -48,7 +54,7 @@ img {
 .music {
   font-family: Marker Felt;
   font-size: 16px;
-  color: blue;
+  color: gray;
   text-align: left;
   font-weight: 600;
 }
