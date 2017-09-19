@@ -1,0 +1,49 @@
+h1 {
+  color: blue;
+  font-family: Impact;
+  letter-spacing: 8px;
+  text-align: center;
+}
+
+h3 {
+  font-family: Impact;
+  letter-spacing: 5px;
+  color: gray;
+  text-decoration: underline;
+}
+
+img {
+  width: 1000px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.info {
+  font-family: georgia;
+  padding-left: 5px;
+}
+
+.sidebar {
+  float: left;
+  background-color: black;
+  color: white;
+  width: 15%;
+  padding: 10px;
+}
+
+.members {
+  float: right;
+  background-color: black;
+  text-align: center;
+  color: white;
+  width: 15%;
+  padding: 10px;
+}
+
+.music {
+  font-family: Impact;
+  font-size: 16px;
+  color: blue;
+  font weight: bold;
+  text-align: right;
+}
