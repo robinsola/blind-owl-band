@@ -1,15 +1,19 @@
 h1 {
   color: blue;
-  font-family: Impact;
-  letter-spacing: 8px;
+  font-family: American Typewriter;
+  letter-spacing: 13px;
   text-align: center;
 }
 
 h3 {
-  font-family: Impact;
+  font-family: Marker Felt;
   letter-spacing: 5px;
   color: gray;
-  text-decoration: underline;
+}
+
+ul, p {
+  font-family: Skia;
+  line-height: 20px;
 }
 
 img {
@@ -19,15 +23,16 @@ img {
 }
 
 .info {
-  font-family: georgia;
-  padding-left: 5px;
+  font-family: Skia;
+  line-height: 22px;
+  text-align: center;
 }
 
 .sidebar {
   float: left;
   background-color: black;
   color: white;
-  width: 15%;
+  width: 18%;
   padding: 10px;
 }
 
@@ -36,14 +41,14 @@ img {
   background-color: black;
   text-align: center;
   color: white;
-  width: 15%;
+  width: 18%;
   padding: 10px;
 }
 
 .music {
-  font-family: Impact;
+  font-family: Marker Felt;
   font-size: 16px;
   color: blue;
-  font weight: bold;
-  text-align: right;
+  text-align: left;
+  font-weight: 600;
 }
