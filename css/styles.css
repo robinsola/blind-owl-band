@@ -39,7 +39,9 @@ img {
   background-color: black;
   color: white;
   width: 18%;
-  padding: 10px;
+  border: 10px solid salmon;
+  padding: 25px;
+  margin: 25px;
 }
 
 .members {
@@ -48,7 +50,9 @@ img {
   text-align: center;
   color: white;
   width: 18%;
-  padding: 10px;
+  border: 10px solid salmon;
+  padding: 25px;
+  margin: 25px;
 }
 
 .music {
@@ -57,4 +61,13 @@ img {
   color: gray;
   text-align: left;
   font-weight: 600;
+}
+
+.pics {
+  border: 10px dotted green;
+  padding: 25px;
+  margin: 25px;
+  width: 90%;
+  height: 600px;
+  margin: 0 auto;
 }
